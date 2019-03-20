@@ -1,2 +1,2 @@
 # czimbi
-This my project to learn netlify and bootstrap.
+Okay so let's get started lmao.
